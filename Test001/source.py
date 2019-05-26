@@ -3,7 +3,7 @@
 #- Also the input string should come with '', or you should use 'raw_input' as below
 # On the other hand, for 3.xx, the print ALWAYS needs parenthesis anytime
 
-print ("test", 11/4)
+print ("test-updated", 11/4)
 
 lines=0
 
